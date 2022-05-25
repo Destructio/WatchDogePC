@@ -2,7 +2,6 @@ package com.pack.test;
 
 import com.google.gson.Gson;
 import com.squareup.okhttp.*;
-import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
